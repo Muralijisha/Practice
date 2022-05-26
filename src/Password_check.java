@@ -16,7 +16,7 @@ public static void main(String[] args) {
     System.out.println("     2. Password should contain 1 lowercase alphabet.");
     System.out.println("     3. Password should contain atleast 2 digits of number.");
     System.out.println("     4. Password should contain '$' or '#' in the last position.");
-    System.out.println("Starting");
+    System.out.println("Starting123");
     System.out.println("\n\nEnter the Password: ");
     String password = s.nextLine();
     
